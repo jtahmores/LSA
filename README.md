@@ -9,7 +9,7 @@ The original code is written using Matlab R2016a. I think all versions after 201
 We test LSA on the most popular domain adaptation and transfer learning datasets: Office+Caltech256 (with SURF and decaf features), COIL20 and Digit (USPS and MNIST domains). The datasets is put into the [datasets](/datasets) folder.
 
 # Demo
-The basic demos to run on benchamark visual datasets are put into [demo](/demo) folder. Run demoOfficeCaltechSurf.m to run LSA on Office+Caltech256 with surf feature.
+The basic demos is run on benchamark visual datasets. Run demoOfficeCaltechSurf.m to run LSA on Office+Caltech256 with surf feature.
 Run demoOfficeCaltechDecaf.m to run LSA on Office+Caltech256 with decaf feature.
 Run demoCoil.m to run LSA on COIL20.
 Run demoDigit.m to run LSA on Digit.
